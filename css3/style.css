@@ -46,3 +46,12 @@ p.para4 {
 	padding-left: 40px;
 	padding-right: 40px;
 }
+.imegec {
+	display: block;
+	margin: 0 auto;
+	padding: 3px;
+	background-color: silver;
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+}
