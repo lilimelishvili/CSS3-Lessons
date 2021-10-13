@@ -22,5 +22,27 @@ p.para2 {
 p.para3 {
 	color: green;
 
-	font-style: oblique;
+	font-size: 15px;
+	line-height: 1.5em;
+	background-color: yellowgreen;
+	padding: 20px;
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+}
+p.para4 {
+	color: blueviolet;
+
+	font-size: 15px;
+	line-height: 1.5em;
+	background-color: palegoldenrod;
+	padding: 20px;
+	border-color: red;
+	border-width: 2px;
+	border-style: solid;
+	margin: 20px;
+	margin-top: 50px;
+	margin-left: 400px;
+	padding-left: 40px;
+	padding-right: 40px;
 }
