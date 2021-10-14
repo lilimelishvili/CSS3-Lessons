@@ -13,11 +13,13 @@ h2 {
 	border-bottom: 1px solid black;
 	font-size: 1.2em;
 }
-#para1homepage {
+p.para1 {
 	color: red;
 }
-
-p.paragraph {
+p.para2 {
+	color: green;
+}
+p.para3 {
 	color: green;
 
 	font-size: 15px;
@@ -27,9 +29,8 @@ p.paragraph {
 	border-color: black;
 	border-width: 2px;
 	border-style: solid;
-	background-image: url(giphy1.gif);
 }
-#para4homepage {
+p.para4 {
 	color: blueviolet;
 
 	font-size: 15px;
