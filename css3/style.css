@@ -54,12 +54,19 @@ p.paragraph {
 	padding-left: 40px;
 	padding-right: 40px;
 }
-.imegec {
+img.imegec {
 	display: block;
+	text-align: center;
 	margin: 0 auto;
 	padding: 3px;
 	background-color: silver;
 	border-color: black;
 	border-width: 2px;
 	border-style: solid;
+}
+#divmain {
+	color: black;
+}
+#divbass {
+	color: black;
 }
