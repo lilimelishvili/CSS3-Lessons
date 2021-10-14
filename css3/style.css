@@ -80,3 +80,13 @@ img.imegec {
 .highlight {
 	background-color: yellow;
 }
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color: #808080;
+}
+a:hover {
+	color: #f15a51;
+}
