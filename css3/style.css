@@ -15,6 +15,10 @@ h2 {
 	font-size: 1.2em;
 	text-align: center;
 }
+h3 {
+	text-decoration: underline;
+}
+
 #para1homepage {
 	color: red;
 }
@@ -68,6 +72,9 @@ img.imegec {
 	color: black;
 }
 #divbass {
+	color: black;
+}
+.divcontent {
 	color: black;
 }
 .highlight {
