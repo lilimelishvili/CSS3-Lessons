@@ -8,10 +8,12 @@ body {
 h1 {
 	border-bottom: 1px solid black;
 	font-size: 150%;
+	text-align: center;
 }
 h2 {
 	border-bottom: 1px solid black;
 	font-size: 1.2em;
+	text-align: center;
 }
 #para1homepage {
 	color: red;
@@ -28,6 +30,13 @@ p.paragraph {
 	border-width: 2px;
 	border-style: solid;
 	background-image: url(giphy1.gif);
+	border-bottom-left-radius: 0ch;
+	border-bottom-right-radius: 0px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-style: dotted;
+	border-width: 3px;
+	border-color: brown;
 }
 #para4homepage {
 	color: blueviolet;
