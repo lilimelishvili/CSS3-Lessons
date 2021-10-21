@@ -1,26 +1,22 @@
-h1 {
-	background-color: green;
-	color: yellow;
-}
-p {
-	background-color: green;
-	color: yellow;
-}
-p.test {
-	background-color: green;
-	color: yellow;
-	border-color: orange;
-	border-width: 2px;
-	border-style: solid;
-}
-
-h2 {
-	background-color: green;
-	color: yellow;
+div {
+	background-color: yellow;
+	padding: 10px;
+	border: black 2px solid;
+	margin: 25px;
 }
 div {
-	background-color: green;
-	color: yellow;
+	background-color: yellow;
+	padding: 10px;
+	border: black 2px solid;
+	margin: 25px;
 }
 img.special {
+	background-color: yellow;
+	padding: 10px;
+	border: black 2px solid;
+	margin: 25px;
 }
+span style {
+	padding: 10px;
+	border: black 2px solid;
+	margin: 25px;
