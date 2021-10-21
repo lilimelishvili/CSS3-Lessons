@@ -1,28 +1,42 @@
-h1 {
-	background-color: green;
-	color: yellow;
-	text-align: center;
-	width: 50%;
-	margin: 0 auto;
-}
 div.div1 {
 	background-color: red;
-	color: aliceblue;
-	width: 50%;
-	float: left;
+	color: white;
+	position: fixed;
+	left: 10px;
+	top: 10px;
 }
 div.div2 {
 	background-color: black;
-	color: aliceblue;
-	width: 50%;
-	float: right;
+	color: white;
+	position: absolute;
+	left: 10px;
+	top: 30px;
 }
-h2 {
-	background-color: green;
-	color: yellow;
+div.div3 {
+	background-color: black;
+	color: white;
+	position: absolute;
+	left: 10px;
+	top: 60px;
 }
-p {
-	border-color: green;
-	border-width: 2px;
-	border-style: solid;
+div.div4 {
+	background-color: black;
+	color: white;
+	position: absolute;
+	left: 10px;
+	top: 90px;
+}
+div.div5 {
+	background-color: black;
+	color: white;
+	position: absolute;
+	left: 10px;
+	top: 110px;
+}
+div.div6 {
+	background-color: black;
+	color: white;
+	position: absolute;
+	left: 10px;
+	top: 130px;
 }
