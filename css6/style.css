@@ -1,15 +1,25 @@
-body {
-	background-color: #9c9f84;
-	margin: 0px;
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
 }
-#main {
-	background-color: #e5e4d7;
-	border-radius: 5px;
+ul li a {
+	text-decoration: none;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-color: #5e755e;
+	color: white;
+	display: block;
+	width: 80px;
+	margin: 5px;
 	padding: 10px;
-	margin: 20px;
+	border: 1px solid red;
+
+	border-radius: 2px;
+	text-align: center;
+	height: 25px;
+	line-height: 25px;
 }
-.image {
-	float: left;
-	margin-right: 10px;
-	margin-bottom: 300px;
+ul li a:hover {
+	background-color: #d3d3d3;
+	color: black;
 }
